@@ -108,7 +108,14 @@ Go to:
 My very first change
 I'm making another change.
 
-You see, I quickly got back to where I started. This is probably the best and fastest way
-to fix a problem BEFORE it gets committed. In the next video, I'll show you how to go back
-a version.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sagittis tempus purus, a tempor diam finibus id. Pellentesque sagittis turpis quis congue ultrices. Nam laoreet nisi id mi posuere, sed venenatis mauris bibendum. Suspendisse at sodales odio. Aenean eget faucibus ipsum, at sagittis dolor. Nunc aliquet ac diam sit amet elementum. Etiam ligula mi, ornare sollicitudin rhoncus quis, gravida dapibus dui. Nulla facilisi. Mauris at metus dui. Vestibulum ac volutpat tortor, in tincidunt magna. Maecenas at mollis velit. Duis tristique porttitor enim, vitae consectetur sapien suscipit semper. Vestibulum vitae porta nibh, et volutpat augue. Sed metus neque, sodales vitae convallis sed, dapibus at magna. Etiam commodo nibh feugiat nulla vestibulum, eget aliquet odio facilisis. Fusce ullamcorper mauris dolor, in pretium tellus varius non.
+
+Integer tincidunt placerat turpis sit amet auctor. Pellentesque faucibus lacinia diam vel bibendum. Quisque quis vestibulum nisi, non porttitor mi. Ut consectetur maximus hendrerit. Vestibulum rutrum sapien maximus egestas rhoncus. Proin feugiat odio ut consectetur vestibulum. Morbi quis dui mollis, tempus felis id, posuere erat. Vivamus quam neque, tempus sed mauris id, tempus tincidunt dolor. Suspendisse a suscipit quam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+
+Nam nec mauris nec justo cursus consequat quis eu ipsum. Phasellus imperdiet est nibh, et lacinia ante sagittis id. Ut risus ante, elementum vitae dolor ut, tincidunt consequat nibh. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus tortor felis, bibendum nec augue ut, efficitur commodo justo. Sed tempus enim vitae purus efficitur hendrerit. Ut tristique erat a placerat porta. Nullam bibendum libero at lacus viverra, rhoncus posuere urna tristique. Vivamus volutpat odio et risus volutpat, sed volutpat odio tempus. Nullam fermentum at ipsum sed luctus. Pellentesque odio tortor, viverra eu turpis a, suscipit dignissim massa.
+
+Mauris sed laoreet eros. Donec eleifend interdum neque, vel feugiat quam pulvinar vel. Suspendisse rutrum, sapien et scelerisque ullamcorper, est justo cursus nisi, quis venenatis ligula ante id urna. Proin urna sapien, consectetur quis lacinia at, sagittis at turpis. Sed maximus sem vel vestibulum maximus. Vestibulum dolor neque, porttitor venenatis bibendum ut, volutpat et augue. Aenean auctor ex mauris, ut sodales nibh varius ut. Vivamus ut luctus risus. Mauris ut velit mauris. Mauris auctor, leo quis aliquet rutrum, ex arcu dignissim ligula, at elementum ipsum leo non magna.
+
+Ut quis mauris purus. Etiam condimentum nisl arcu, id eleifend ligula consequat sed. Praesent non felis congue, commodo mauris vel, euismod ante. Mauris non aliquet nulla. Proin magna diam, bibendum non magna non, bibendum rhoncus dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam rhoncus est nisi, id volutpat lorem aliquam ac. Nulla eget felis vel ligula accumsan porta feugiat vel libero. Donec porttitor risus diam, accumsan cursus eros rutrum nec. Sed ultrices velit vel diam molestie, sit amet vulputate elit porta. Nulla venenatis eget eros sit amet tincidunt.
+
 
