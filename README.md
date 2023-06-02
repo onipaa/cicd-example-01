@@ -107,3 +107,8 @@ Go to:
 > **Note**: You can also use `flask run` to run the application.
 My very first change
 I'm making another change.
+
+You see, I quickly got back to where I started. This is probably the best and fastest way
+to fix a problem BEFORE it gets committed. In the next video, I'll show you how to go back
+a version.
+
