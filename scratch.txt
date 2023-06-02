@@ -1,0 +1,15 @@
+Let's say I really mess up a file. I'll use the same README.md that
+I have been using.
+
+In a preemptive manner, I know I've messed up the file and I can
+redo my changes pretty easily. So, BEFORE I do a commit push, I 
+just copy the file off somewhere and then delete it from my local
+repository.
+
+Step #1. copy the file off somewhere
+Step #2. delete the file from your local repo
+Step #3. check just that file out again
+Step #4. add in only the changes you want
+Step $5. git commit
+
+
